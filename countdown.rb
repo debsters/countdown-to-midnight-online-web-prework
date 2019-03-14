@@ -7,5 +7,5 @@ def countdown(integer)
     number -= 1
     sleep(5)
   end
-    "HAPPY NEW YEAR!"
+    return "HAPPY NEW YEAR!"
 end
